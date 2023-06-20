@@ -1,16 +1,13 @@
-### Hi there 👋
+### Mike Sarfaty
 
-<!--
-**mikesarfaty/mikesarfaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a DevOps Engineer turned Site Reliability Engineer turned Infrastructure Engineer-
 
-Here are some ideas to get you started:
+Currently working on TAO (Terraform as Objects); a language parsing library for HCL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github.com/mikesarfaty/tao
+
+
+most repos will contain random projects with
+- terraform, kubernetes, config management
+- kafka
+- cloud cost hacking
